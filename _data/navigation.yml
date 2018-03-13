@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Team"
+    url: /team/
+  - title: "In the News"
+    url: /news/
+  - title: "Partners"
+    url: /partners/
+  - title: "Contact Us"
+    url: /contact/
