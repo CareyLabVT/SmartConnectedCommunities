@@ -2,11 +2,15 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Forecast"
+    url: /forecast/
   - title: "Team"
     url: /team/
   - title: "In the News"
     url: /news/
   - title: "Partners"
     url: /partners/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Contact Us"
     url: /contact/

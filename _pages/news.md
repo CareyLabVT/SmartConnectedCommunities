@@ -8,7 +8,7 @@ header:
 
 # Researchers to forecast water quality with NSF support
 
-*[Augusta Free Press, October 30, 2017](http://augustafreepress.com/researchers-forecast-water-quality-nsf-support/)*
+*[Water World, October 18, 2017](https://www.waterworld.com/articles/2017/10/global-change-center-researchers-to-forecast-water-quality-with-nsf-support.html)*
  
 Public utility managers will be able to predict drinking water quality more accurately thanks to a team of scientists with the Global Change Center at Virginia Tech. The team, which includes ecologists, social scientists, geologists, and engineers, was awarded a $1 million National Science Foundation Smart and Connected Communities grant to develop a system that can create a real-time water forecast similar to a weather forecast for Falling Creek Reservoir near Roanoke, Virginia. Falling Creek is one of five drinking water reservoirs used by the Western Virginia Water Authority.
  

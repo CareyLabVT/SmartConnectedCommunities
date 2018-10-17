@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /
 title: "Smart & Connected Water Systems"
 header:
@@ -6,27 +7,33 @@ header:
   overlay_image: /assets/images/banner.jpg
   caption: "Falling Creek Reservoir, Virginia, USA"
 excerpt: "Forecasting Water Quality"
-gallery:
-  - url: /assets/images/gallery/1.jpg
-    image_path: /assets/images/gallery/1.jpg
-    alt: "Sensor team deploying a new meteorological station at Falling Creek Reservoir (Photo credit: B. Niederlehner)"
-    title: "Sensor team deploying a new meteorological station at Falling Creek Reservoir (Photo credit: B. Niederlehner)"
-  - url: /assets/images/gallery/2.jpg
-    image_path: /assets/images/gallery/2.jpg
-    alt: "Falling Creek Reservoir sampling team (Photo credit: J. Orzolek)"
-    title: "Falling Creek Reservoir sampling team (Photo credit: J. Orzolek)"
-  - url: /assets/images/gallery/3.jpg
-    image_path: /assets/images/gallery/3.jpg
-    alt: "François Birgand and Alex Gerling testing water quality sensors (Photo credit: C. Carey)"
-    title: "François Birgand and Alex Gerling testing water quality sensors (Photo credit: C. Carey)"
-  - url: /assets/images/gallery/4.jpg
-    image_path: /assets/images/gallery/4.jpg
-    alt: "SCC team at our August 2017 kick-off meeting in Blacksburg, VA (Photo credit: C. Carey)"
-    title: "SCC team at our August 2017 kick-off meeting in Blacksburg, VA (Photo credit: C. Carey)"
+feature_row:
+  - image_path: /assets/images/nsf-award.png
+    alt: "NSF Award"
+    title: "NSF Award"
+    excerpt: "Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust"
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424
+    btn_class: "btn--primary"
+    btn_label: "Award Details"
+  - image_path: https://raw.githubusercontent.com/CareyLabVT/test_forecast/master/Current_forecast.png
+    alt: "Daily Forecasts"
+    title: "Daily Forecasts"
+    excerpt: "Daily Water Temperature and Turnover Forecast for Falling Creek Reservoir, Roanoke, Virginia, USA"
+    url: "/forecast/"
+    btn_class: "btn--primary"
+    btn_label: "Read Forecasts"
+  - image_path: /assets/images/scc-news.png
+    alt: "In the News"
+    title: "In the News"
+    excerpt: "Researchers to forecast water quality with NSF support"
+    url: "/news/"
+    btn_class: "btn--primary"
+    btn_label: "Read about Us"
 ---
-{::nomarkdown}<div class="one-third-right">
-{:/nomarkdown}{% include gallery %}
-{::nomarkdown}</div>{:/nomarkdown}
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
 - Develop a smart water system that integrates novel high-frequency sensors, cyberinfrastructure, and ecosystem forecasting techniques to improve the management of drinking water supply lakes and reservoirs;
 
