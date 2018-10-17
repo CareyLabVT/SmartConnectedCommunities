@@ -69,9 +69,17 @@ Professor, Department of Geosciences, Virginia Tech
 
 {: .clear-both}
 
-# Students
+# Technician and Students
 
 {::nomarkdown}<div><div class="one-fourth">{:/nomarkdown}
+![Bethany Bookout](../assets/images/bethany.jpg){: .profile-img}
+### [Bethany Bookout <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1293)
+
+Research Technician, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 ### [Arianna Krinos <i class="fa fa-link"></i>](hhttps://github.com/akrinos)
 
@@ -83,19 +91,19 @@ Undergraduate Student, Carey Lab, Virginia Tech
 ![Mary Lofton](../assets/images/mary.jpg){: .profile-img}
 ### [Mary Lofton <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/mary-lofton/)
 
-PhD Student, Carey Lab , Virginia Tech
-{::nomarkdown}</div>{:/nomarkdown}
-
-
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
-### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
-
-PhD Student, Carey Lab , Virginia Tech
+PhD Student, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
+### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
+
+PhD Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 

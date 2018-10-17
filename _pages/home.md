@@ -8,7 +8,7 @@ header:
   caption: "Falling Creek Reservoir, Virginia, USA"
 excerpt: "Forecasting Water Quality"
 feature_row:
-  - image_path: /assets/images/nsf-award.png
+  - image_path: /assets/images/nsf-award.jpg
     alt: "NSF Award"
     title: "NSF Award"
     excerpt: "Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust"
@@ -22,7 +22,7 @@ feature_row:
     url: "/forecast/"
     btn_class: "btn--primary"
     btn_label: "Read Forecasts"
-  - image_path: /assets/images/scc-news.png
+  - image_path: /assets/images/scc-news.jpg
     alt: "In the News"
     title: "In the News"
     excerpt: "Researchers to forecast water quality with NSF support"
