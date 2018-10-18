@@ -8,20 +8,20 @@ header:
   caption: "Falling Creek Reservoir, Virginia, USA"
 excerpt: "Forecasting Water Quality"
 feature_row:
-  - image_path: /assets/images/nsf-award.jpg
-    alt: "NSF Award"
-    title: "NSF Award"
-    excerpt: "Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust"
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424
-    btn_class: "btn--primary"
-    btn_label: "Award Details"
-  - image_path: https://raw.githubusercontent.com/CareyLabVT/test_forecast/master/Current_forecast.png
+  - image_path: "https://raw.githubusercontent.com/CareyLabVT/test_forecast/master/Current_forecast.png"
     alt: "Daily Forecasts"
     title: "Daily Forecasts"
     excerpt: "Daily Water Temperature and Turnover Forecast for Falling Creek Reservoir, Roanoke, Virginia, USA"
     url: "/forecast/"
     btn_class: "btn--primary"
     btn_label: "Read Forecasts"
+  - image_path: /assets/images/scc-wiki.jpg
+    alt: "Project Wiki"
+    title: "Project Wiki"
+    excerpt: "SCC team can find detailed information regarding the project in the wiki."
+    url: "https://github.com/CareyLabVT/SmartConnectedCommunities/wiki"
+    btn_class: "btn--primary"
+    btn_label: "SCC Wiki"
   - image_path: /assets/images/scc-news.jpg
     alt: "In the News"
     title: "In the News"

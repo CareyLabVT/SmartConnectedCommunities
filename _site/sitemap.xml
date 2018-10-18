@@ -7,7 +7,7 @@
 <loc>/contact/</loc>
 </url>
 <url>
-<loc>/forecast/</loc>
+<loc>/forecasts/</loc>
 </url>
 <url>
 <loc>/gallery/</loc>
@@ -20,6 +20,9 @@
 </url>
 <url>
 <loc>/partners/</loc>
+</url>
+<url>
+<loc>/resources/</loc>
 </url>
 <url>
 <loc>/team/</loc>

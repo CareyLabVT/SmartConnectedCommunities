@@ -80,6 +80,38 @@ Research Technician, Carey Lab, Virginia Tech
 
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Mary Lofton](../assets/images/mary.jpg){: .profile-img}
+### [Mary Lofton <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/mary-lofton/)
+
+PhD Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
+### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
+
+PhD Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Madeline Grupper](../assets/images/madeline.jpg){: .profile-img}
+### [Madeline Grupper <i class="fa fa-link"></i>](https://www.linkedin.com/in/madeline-grupper)
+
+Master's Student, Conservation Social Science Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
+### [Whitney Woelmer <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1289)
+
+Master's Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 ### [Arianna Krinos <i class="fa fa-link"></i>](hhttps://github.com/akrinos)
 
@@ -88,22 +120,14 @@ Undergraduate Student, Carey Lab, Virginia Tech
 
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Mary Lofton](../assets/images/mary.jpg){: .profile-img}
-### [Mary Lofton <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/mary-lofton/)
+![Laura Puckett](../assets/images/laura.jpg){: .profile-img}
+### [Laura Puckett <i class="fa fa-link"></i>](https://www.epics.frec.vt.edu/?page_id=65)
 
-PhD Student, Carey Lab, Virginia Tech
+Undergraduate Student, Ecosystem Dynamics and Forecasting Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
-![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
-### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
-
-PhD Student, Carey Lab, Virginia Tech
-{::nomarkdown}</div>{:/nomarkdown}
-
-
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 

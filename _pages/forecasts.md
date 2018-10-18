@@ -1,6 +1,6 @@
 ---
-permalink: /forecast/
-title: "Forecast"
+permalink: /forecasts/
+title: "Forecasts"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
