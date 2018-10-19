@@ -12,7 +12,7 @@ feature_row:
     alt: "Daily Forecasts"
     title: "Daily Forecasts"
     excerpt: "Daily Water Temperature and Turnover Forecast for Falling Creek Reservoir, Roanoke, Virginia, USA"
-    url: "/forecast/"
+    url: "/forecasts/"
     btn_class: "btn--primary"
     btn_label: "Read Forecasts"
   - image_path: /assets/images/scc-wiki.jpg
