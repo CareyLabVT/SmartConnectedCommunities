@@ -8,7 +8,7 @@ header:
   caption: "Falling Creek Reservoir, Virginia, USA"
 excerpt: "Forecasting Water Quality"
 feature_row:
-  - image_path: "https://raw.githubusercontent.com/CareyLabVT/test_forecast/master/Current_forecast.png"
+  - image_path: https://raw.githubusercontent.com/CareyLabVT/SCC_forecasting/FCR-forecasts-v1b2/Current_forecast.png
     alt: "Daily Forecasts"
     title: "Daily Forecasts"
     excerpt: "Daily Water Temperature and Turnover Forecast for Falling Creek Reservoir, Roanoke, Virginia, USA"
@@ -19,7 +19,7 @@ feature_row:
     alt: "Project Wiki"
     title: "Project Wiki"
     excerpt: "SCC team can find detailed information regarding the project in the wiki."
-    url: "https://github.com/CareyLabVT/SmartConnectedCommunities/wiki"
+    url: https://github.com/CareyLabVT/SmartConnectedCommunities/wiki
     btn_class: "btn--primary"
     btn_label: "SCC Wiki"
   - image_path: /assets/images/scc-news.jpg
