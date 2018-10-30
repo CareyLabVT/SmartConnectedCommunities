@@ -13,5 +13,5 @@ header:
 # Decision Tree
 
 <figure>
-	<a href="/assets/images/decision-tree.jpg"><img src="/assets/images/decision-tree.jpg"></a>
+	<a href="/assets/images/scc-decision-tree-v2.png"><img src="/assets/images/scc-decision-tree-v2.png"></a>
 </figure>
