@@ -6,6 +6,12 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
+# Project Overview
+
+To increase the resilience of water supplies, this project will develop a smart water system that integrates smart and connected (S&C) technology and adaptive management to ensure safe drinking water for communities. The smart water system will consist of sensor networks embedded in a drinking water reservoir to reduce delays and enhance feedbacks between the detection of water quality degradation and decisive management action to mitigate such threats.
+
+![SCC Project Overview](/assets/images/overview.jpg)
+
 # Major Research Innovations 
 
 **Objective 1:** We will create an embedded network of high-frequency water quality sensors in a drinking water reservoir in Roanoke, Virginia that will become a prototype for hundreds of other water supply reservoirs. Our team will be deploying novel sensor technology that has the potential to transform both water quality monitoring and our understanding of freshwater biogeochemical cycling.  

@@ -19,7 +19,7 @@ Assistant Professor, Carey Lab, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Michael Sorice](../assets/images/mike.jpg){: .profile-img}
-### [Dr. Michael Sorice <i class="fa fa-link"></i>](https://frec.vt.edu/People/Sorice.html){: .clear-both}
+### [Dr. Michael Sorice <i class="fa fa-link"></i>](https://www.sorice.frec.vt.edu/){: .clear-both}
 
 
 Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech
@@ -28,7 +28,7 @@ Assistant Professor, Department of Forest Resources and Environmental Conservati
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![R. Quinn Thomas](../assets/images/quinn.jpg){: .profile-img}
-### [Dr. Quinn Thomas <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/quinn-thomas/){: .clear-both}
+### [Dr. Quinn Thomas <i class="fa fa-link"></i>](https://www.epics.frec.vt.edu/){: .clear-both}
 
 
 Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech
@@ -37,7 +37,7 @@ Assistant Professor, Department of Forest Resources and Environmental Conservati
 
 {::nomarkdown}<div><div class="one-fourth clear-both">{:/nomarkdown}
 ![Francois Birgand](../assets/images/francois.jpg){: .profile-img}
-### [Dr. Francois Birgand <i class="fa fa-link"></i>](https://www.bae.ncsu.edu/people/birgand/)
+### [Dr. Francois Birgand <i class="fa fa-link"></i>](https://francoisbirgand.github.io/)
 
 Assistant Professor, Department of Biological and Agricultural Engineering, North Carolina State University
 {::nomarkdown}</div>{:/nomarkdown}
@@ -61,7 +61,7 @@ Charles E. Via Jr. Professor of Civil and Environmental Engineering, Virginia Te
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Madeline E. Schreiber](../assets/images/maddy.jpg){: .profile-img}
-### [Dr. Madeline Schreiber <i class="fa fa-link"></i>](https://geos.vt.edu/people/faculty/Madeline-Schreiber.html)
+### [Dr. Madeline Schreiber <i class="fa fa-link"></i>](https://www.globalchange.vt.edu/madeline-schreiber/)
 
 Professor, Department of Geosciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
@@ -97,7 +97,7 @@ PhD Student, Carey Lab, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Madeline Grupper](../assets/images/madeline.jpg){: .profile-img}
-### [Madeline Grupper <i class="fa fa-link"></i>](https://www.linkedin.com/in/madeline-grupper)
+### [Madeline Grupper <i class="fa fa-link"></i>](https://www.sorice.frec.vt.edu/maddy-grupper/)
 
 Master's Student, Conservation Social Science Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
@@ -113,7 +113,7 @@ Master's Student, Carey Lab, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
-### [Arianna Krinos <i class="fa fa-link"></i>](hhttps://github.com/akrinos)
+### [Arianna Krinos <i class="fa fa-link"></i>](https://github.com/akrinos)
 
 Undergraduate Student, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
