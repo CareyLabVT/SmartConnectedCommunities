@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
+# Madeline Grupper, VirginiaTech Nutshell Games 2018
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4BfIwILr7K8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+
 # Researchers to forecast water quality with NSF support
 
 *[Water World, October 18, 2017](https://www.waterworld.com/articles/2017/10/global-change-center-researchers-to-forecast-water-quality-with-nsf-support.html)*
