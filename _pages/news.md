@@ -8,7 +8,7 @@ header:
 
 # Madeline Grupper, The Third Nutshell Games
 
-**VirginiaTech, October 27, 2018**
+*VirginiaTech, October 27, 2018*
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4BfIwILr7K8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 

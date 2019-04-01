@@ -12,6 +12,8 @@ To increase the resilience of water supplies, this project is developing a smart
 
 ![SCC Project Overview](/assets/images/overview.jpg)
 
+*Translating Sensor Data and Models into Water Quality Forecasts for Managers and the Community*
+
 # Major Research Innovations 
 
 **Objective 1:** We will create an embedded network of high-frequency water quality sensors in a drinking water reservoir in Roanoke, Virginia that will become a prototype for hundreds of other water supply reservoirs. Our team will be deploying novel sensor technology that has the potential to transform both water quality monitoring and our understanding of freshwater biogeochemical cycling.  
