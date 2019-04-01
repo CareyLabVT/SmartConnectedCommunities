@@ -6,8 +6,8 @@ main:
     url: /forecasts/
   - title: "Team"
     url: /team/
-  - title: "Resources"
-    url: /resources/
+  - title: "Wiki"
+    url: https://github.com/CareyLabVT/SmartConnectedCommunities/wiki
   - title: "In the News"
     url: /news/
   - title: "Partners"

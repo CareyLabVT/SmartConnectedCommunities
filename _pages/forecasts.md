@@ -11,3 +11,5 @@ layouts_gallery:
     title: "Current Forecast for Falling Creek Reservoir"
 ---
 {% include gallery id="layouts_gallery" %}
+
+[Falling Creek Reservoir (FCR) Forecasts Repository on GitHub](https://github.com/CareyLabVT/FCR_forecasts/tree/v1.beta2)
