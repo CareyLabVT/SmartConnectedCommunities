@@ -13,7 +13,7 @@ header:
 ### [Dr. Cayelan Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/){: .clear-both}
 
 
-Assistant Professor, Carey Lab, Virginia Tech
+Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -22,7 +22,7 @@ Assistant Professor, Carey Lab, Virginia Tech
 ### [Dr. Michael Sorice <i class="fa fa-link"></i>](https://www.sorice.frec.vt.edu/){: .clear-both}
 
 
-Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech
+Assistant Professor, Department of Forest Resources & Environmental Conservation, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -31,7 +31,7 @@ Assistant Professor, Department of Forest Resources and Environmental Conservati
 ### [Dr. Quinn Thomas <i class="fa fa-link"></i>](https://www.epics.frec.vt.edu/){: .clear-both}
 
 
-Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech
+Associate Professor, Department of Forest Resources & Environmental Conservation, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
@@ -39,7 +39,7 @@ Assistant Professor, Department of Forest Resources and Environmental Conservati
 ![Francois Birgand](../assets/images/francois.jpg){: .profile-img}
 ### [Dr. Francois Birgand <i class="fa fa-link"></i>](https://francoisbirgand.github.io/)
 
-Assistant Professor, Department of Biological and Agricultural Engineering, North Carolina State University
+Assistant Professor, Department of Biological & Agricultural Engineering, North Carolina State University
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -47,7 +47,7 @@ Assistant Professor, Department of Biological and Agricultural Engineering, Nort
 ![Renato J. Figueiredo](../assets/images/renato.jpg){: .profile-img}
 ### [Dr. Renato Figueiredo <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/renatof)
 
-Professor, ACIS Lab, University of Florida
+Professor, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -55,7 +55,7 @@ Professor, ACIS Lab, University of Florida
 ![John C. Little](../assets/images/john.jpg){: .profile-img}
 ### [Dr. John Little <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/john-little/)
 
-Charles E. Via Jr. Professor of Civil and Environmental Engineering, Virginia Tech
+Professor, Department of Civil & Environmental Engineering, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -69,13 +69,13 @@ Professor, Department of Geosciences, Virginia Tech
 
 {: .clear-both}
 
-# Technician and Students
+# Technician & Students
 
 {::nomarkdown}<div><div class="one-fourth">{:/nomarkdown}
 ![Bethany Bookout](../assets/images/bethany.jpg){: .profile-img}
 ### [Bethany Bookout <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1293)
 
-Research Technician, Carey Lab, Virginia Tech
+Research Technician, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -83,7 +83,7 @@ Research Technician, Carey Lab, Virginia Tech
 ![Mary Lofton](../assets/images/mary.jpg){: .profile-img}
 ### [Mary Lofton <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/mary-lofton/)
 
-PhD Student, Carey Lab, Virginia Tech
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -91,7 +91,7 @@ PhD Student, Carey Lab, Virginia Tech
 ![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
 ### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
 
-PhD Student, Carey Lab, Virginia Tech
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -103,11 +103,11 @@ Master's Student, Conservation Social Science Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [Whitney Woelmer <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1289)
 
-Master's Student, Carey Lab, Virginia Tech
+Master's Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -115,7 +115,7 @@ Master's Student, Carey Lab, Virginia Tech
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 ### [Arianna Krinos <i class="fa fa-link"></i>](https://github.com/akrinos)
 
-Undergraduate Student, Carey Lab, Virginia Tech
+Undergraduate Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -123,7 +123,7 @@ Undergraduate Student, Carey Lab, Virginia Tech
 ![Laura Puckett](../assets/images/laura.jpg){: .profile-img}
 ### [Laura Puckett <i class="fa fa-link"></i>](https://www.epics.frec.vt.edu/?page_id=65)
 
-Undergraduate Student, Ecosystem Dynamics and Forecasting Lab, Virginia Tech
+Undergraduate Student, Ecosystem Dynamics & Forecasting Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -131,5 +131,5 @@ Undergraduate Student, Ecosystem Dynamics and Forecasting Lab, Virginia Tech
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 
-PhD Student, ACIS Lab, University of Florida
+PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 {::nomarkdown}</div></div>{:/nomarkdown}
