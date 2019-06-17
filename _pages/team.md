@@ -32,7 +32,7 @@ Associate Professor, Department of Forest Resources & Environmental Conservation
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div><div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
 ![Francois Birgand](../assets/images/francois.jpg){: .profile-img}
 ### [Dr. Francois Birgand <i class="fa fa-link"></i>](https://francoisbirgand.github.io/)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -68,7 +68,7 @@ Professor, Department of Geosciences, Virginia Tech
 
 # Researchers, Technician, & Students
 
-{::nomarkdown}<div><div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Paul C. Hanson](../assets/images/paul.jpg){: .profile-img}
 ### [Dr. Paul Hanson <i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -76,7 +76,7 @@ Distinguished Professor of Research, Center for Limnology, University of Wiscons
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div><div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Alexandria Hounshell](../assets/images/alex.jpg){: .profile-img}
 ### [Dr. Alexandria Hounshell <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1513)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -84,7 +84,7 @@ Postdoctoral Researcher, Carey Lab, Department of Biological Sciences, Virginia 
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div><div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Bethany Bookout](../assets/images/bethany.jpg){: .profile-img}
 ### [Bethany Bookout <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1293)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
