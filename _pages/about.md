@@ -10,9 +10,13 @@ header:
 
 To increase the resilience of water supplies, this project is developing a smart water system that integrates smart and connected (S&C) technology and adaptive management to ensure safe drinking water for communities. The smart water system will consist of sensor networks embedded in a drinking water reservoir to reduce delays and enhance feedbacks between the detection of water quality degradation and decisive management action to mitigate such threats.
 
-![SCC Project Overview](/assets/images/overview.jpg)
 
+{::nomarkdown}<div class="one-half small">{:/nomarkdown}
 *Translating Sensor Data and Models into Water Quality Forecasts for Managers and the Community*
+![SCC Project Overview](/assets/images/overview.jpg)
+{::nomarkdown}</div>{:/nomarkdown}
+
+<iframe class="one-half-last" src="https://cdnapisec.kaltura.com/p/2375811/sp/237581100/embedIframeJs/uiconf_id/41951101/partner_id/2375811?iframeembed=true&playerId=kplayer&entry_id=1_9ok8r6ty&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
 # Major Research Innovations 
 

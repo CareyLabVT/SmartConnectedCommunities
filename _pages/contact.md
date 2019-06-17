@@ -8,6 +8,6 @@ header:
 
 **[Dr. Cayelan C. Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)**
 
-Assistant Professor, Carey Lab, Virginia Tech 
+Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech 
 
 <i class="fa fa-envelope-o" aria-hidden="true"></i> cayelan{at}vt.edu 

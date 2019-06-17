@@ -23,6 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 500;
 	color: #286c8d;
 	margin: 1em 0 .5em;
+	clear: left;
+	padding-top: 1em;
 }
 
 .greedy-nav a.site-title {
@@ -35,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .greedy-nav a {
-    margin: 0 0.75rem;
+    margin: 0 0.7rem;
 }
 
 .masthead {
@@ -117,7 +119,7 @@ a {
 	clear: both;
 	float: left;
 	border-radius: 4px;
-	margin: 0 1em 1em 0;
+	margin: 2em 1em 0 0;
 	width: 100%;
 }
 
@@ -132,6 +134,14 @@ a {
 
 .footer-links {
 	float: right;
+}
+
+.small {
+	font-size: 0.7em;
+}
+
+.bio {
+	font-size: 0.8em;
 }
 
 @media (max-width: 37.5em) {
@@ -178,13 +188,13 @@ a {
 }
 
 .one-half {
-  width: span(1 of 2);
-  margin-right: gutter(of 2);
+  width: span(1 of 2 set-gutters 1em);
+  margin-right: 1em;
   float: left;
 }
 
 .one-half-last {
-  width: span(1 of 2);
+  width: span(1 of 2 set-gutters 1em);
   float: left;	
   clear: right;
 }
