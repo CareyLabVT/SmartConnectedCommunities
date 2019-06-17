@@ -107,6 +107,15 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Heather Wander](../assets/images/heather.jpg){: .profile-img}
+### [Heather Wander <i class="fa fa-link"></i>](https://carey.biol.vt.edu/?page_id=1520)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Abigail Lewis](../assets/images/abby.jpg){: .profile-img}
 ### [Abigail Lewis <i class="fa fa-link"></i>](https://carey.biol.vt.edu/?page_id=1525)
@@ -115,7 +124,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -123,7 +132,7 @@ PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, Universi
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
 ![Madeline Grupper](../assets/images/madeline.jpg){: .profile-img}
 ### [Madeline Grupper <i class="fa fa-link"></i>](https://www.sorice.frec.vt.edu/maddy-grupper/)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -131,7 +140,7 @@ Master's Student, Conservation Social Science Lab, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [Whitney Woelmer <i class="fa fa-link"></i>](https://www.carey.biol.vt.edu/?page_id=1289)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -147,7 +156,7 @@ Undergraduate Student, Carey Lab, Department of Biological Sciences, Virginia Te
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Laura Puckett](../assets/images/laura.jpg){: .profile-img}
 ### [Laura Puckett <i class="fa fa-link"></i>](https://www.epics.frec.vt.edu/?page_id=65)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
