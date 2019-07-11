@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-**[Dr. Cayelan C. Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)**
+**[<i class="fa fa-link" aria-hidden="true"></i> Dr. Cayelan C. Carey](http://www.carey.biol.vt.edu/)**
 
 Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech 
 

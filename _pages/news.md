@@ -8,7 +8,7 @@ header:
 
 # Class of 2019: Laura Puckett merges a passion for the outdoors with keen insights into environmental data
 
-*[Virginia Tech Daily, May 9, 2019](https://vtnews.vt.edu/articles/2019/04/cnre-classof2019-puckett.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_051019-fs)*
+*[<i class="fa fa-link" aria-hidden="true"></i> Virginia Tech Daily, May 9, 2019](https://vtnews.vt.edu/articles/2019/04/cnre-classof2019-puckett.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_051019-fs)*
 
 ![Laura Puckett](https://vtnews.vt.edu/content/vtnews_vt_edu/en/articles/2019/04/cnre-classof2019-puckett/jcr:content/article-image.transform/xl-medium/image.jpg){: .one-half}
 
@@ -40,7 +40,7 @@ In the fall, Puckett will be starting a Ph.D. in ecological and environmental in
 
 # Testing the water: Virginia Tech team launches system to predict water conditions
 
-*[Virginia Tech Daily, April 2, 2019](https://vtnews.vt.edu/articles/2019/04/unirel-smartreservoir.html)*
+*[<i class="fa fa-link" aria-hidden="true"></i> Virginia Tech Daily, April 2, 2019](https://vtnews.vt.edu/articles/2019/04/unirel-smartreservoir.html)*
 
 ![Cayelan Carey (middle), assistant professor of biological sciences at Virginia Tech, leads a team of students and faculty who have created a system to forecast water conditions in the Falling Creek Reservoir in Vinton.](https://vtnews.vt.edu/content/vtnews_vt_edu/en/articles/2019/04/unirel-smartreservoir/jcr:content/article-image.transform/xl-medium/image.JPG){: .one-half}
 
@@ -98,7 +98,7 @@ The fundamental question — “How can we design this system so that it is meet
 
 # Madeline Grupper, The Third Nutshell Games
 
-*VirginiaTech, October 27, 2018*
+*[<i class="fa fa-link" aria-hidden="true"></i> VirginiaTech, October 27, 2018](https://www.youtube.com/watch?v=4BfIwILr7K8)*
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4BfIwILr7K8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -106,7 +106,7 @@ The fundamental question — “How can we design this system so that it is meet
 
 # Researchers to forecast water quality with NSF support
 
-*[Water World, October 18, 2017](https://www.waterworld.com/articles/2017/10/global-change-center-researchers-to-forecast-water-quality-with-nsf-support.html)*
+*[<i class="fa fa-link" aria-hidden="true"></i> Water World, October 18, 2017](https://www.waterworld.com/articles/2017/10/global-change-center-researchers-to-forecast-water-quality-with-nsf-support.html)*
  
 Public utility managers will be able to predict drinking water quality more accurately thanks to a team of scientists with the Global Change Center at Virginia Tech. The team, which includes ecologists, social scientists, geologists, and engineers, was awarded a $1 million National Science Foundation Smart and Connected Communities grant to develop a system that can create a real-time water forecast similar to a weather forecast for Falling Creek Reservoir near Roanoke, Virginia. Falling Creek is one of five drinking water reservoirs used by the Western Virginia Water Authority.
  
