@@ -14,4 +14,4 @@ layouts_gallery:
 
 # Forecasts on GitHub
 
-[<i class="fa fa-link" aria-hidden="true"></i> Falling Creek Reservoir (FCR) Forecasts Repository on GitHub](https://github.com/CareyLabVT/FCR_forecasts/tree/v1.beta2)
+[<i class="fa fa-github" aria-hidden="true"></i> Falling Creek Reservoir (FCR) Forecasts Repository on GitHub](https://github.com/CareyLabVT/FCR_forecasts/tree/v1.beta2)
