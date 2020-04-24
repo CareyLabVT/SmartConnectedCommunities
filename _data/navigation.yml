@@ -8,6 +8,8 @@ main:
     url: /team/
   - title: "In the News"
     url: /news/
+  - title: "User Guide"
+    url: /user_guide/
   - title: "Partners"
     url: /partners/
   - title: "Gallery"
