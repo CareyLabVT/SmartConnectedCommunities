@@ -7,7 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.greedy-nav a.site-title {
+    opacity: 0%;
+    width: 240px;
+    height: 99px;
+}
 
+.masthead__inner-wrap nav {
+    background: #fff url(../images/logo.jpg) no-repeat left top;
+    height: 99px;
+}
 
 .page {
 	width: 100%;
@@ -25,15 +34,6 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 1em 0 .85em;
 	clear: left;
 	padding-top: 1em;
-}
-
-.greedy-nav a.site-title {
-	font-size: 1.5em;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-	background: #ffffff url(../images/logo.jpg) no-repeat left top;
-	width: 305px;
-	height: 100px;
-	margin-right: 0;
 }
 
 .greedy-nav a {
