@@ -10,6 +10,18 @@ FLARE Users Guide and Tutorial
 ================
 4/23/2020
 
+
+[Background](#background)  
+[Requirements](#requirements)  
+[1: Set up](#1-set-up)  
+[2: Configure simulation (GLM)](#2-configure-simulation-glm)  
+[3: Run your first simulation (GLM)](#3-run-your-first-simulation-glm)  
+[4: Examining FLARE output](#4-examining-flare-output)  
+[5: Running GLM-AED](#5-running-glm-aed)  
+[6: Modifying FLARE](#6-modifying-flare)  
+[7: Modifying FLARE for a new lake](#7-modifying-flare-for-a-new-lake)  
+[Appendix: FLARE Configurations](#appendix-flare-configurations)
+
 ## Background
 
 This document serves as a users guide and a tutorial for the FLARE
