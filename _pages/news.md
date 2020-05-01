@@ -98,7 +98,7 @@ The fundamental question — “How can we design this system so that it is meet
 
 # Madeline Grupper, The Third Nutshell Games
 
-*[<i class="fa fa-youtube" aria-hidden="true"></i> VirginiaTech, October 27, 2018](https://www.youtube.com/watch?v=4BfIwILr7K8)*
+*[<i class="fab fa-youtube" aria-hidden="true"></i> VirginiaTech, October 27, 2018](https://www.youtube.com/watch?v=4BfIwILr7K8)*
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4BfIwILr7K8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -10,4 +10,4 @@ header:
 
 Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech 
 
-<i class="fa fa-envelope-o" aria-hidden="true"></i> cayelan{at}vt.edu 
+<i class="far fa-envelope" aria-hidden="true"></i> cayelan{at}vt.edu 
