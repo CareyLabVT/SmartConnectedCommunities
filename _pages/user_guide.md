@@ -10,7 +10,6 @@ FLARE Users Guide and Tutorial
 ================
 4/23/2020
 
-
 [Background](#background)  
 [Requirements](#requirements)  
 [1: Set up](#1-set-up)  
@@ -91,13 +90,16 @@ To set up the files needed for FLARE perform either Step 1a or Step 1b
     most recent data or code.
   - Step 1b is required if you want to automatically pull new data from
     GitHub
+  - Step 1c is uses a docker container that already has the libraries
+    that FLARE requires installed. Similar to step 1a, the Docker
+    container won’t have the most recent data or code.
 
 ### 1a: Pre-packaged code and data
 
 Download and unzip the file
 here:
 
-<https://www.dropbox.com/s/eijknbfzt2ld86g/flare_users_guide_files.zip?dl=0>
+<https://www.dropbox.com/s/enl9srn5rx7ecxp/flare_users_guide_files.zip?dl=0>
 
 ### 1b: Generating directories, downloading code, and downloading data manually
 
@@ -201,7 +203,7 @@ here:
 **Create directory for running FLARE**
 
   - Create a directory in your working directory (`flare_training`, not
-    the SCC\_data directory) using `mkdir`. For example:
+    the `SCC_data` directory) using `mkdir`. For example:
     
     `mkdir
     /Users/quinn/Dropbox/Research/SSC_forecasting/flare_training/flare_simulation`
@@ -212,6 +214,24 @@ Copy the following files from `FLARE/example_configuration_files` to
   - `initiate_forecast_example.R`
   - `glm3_woAED.nml`
   - `configure_FLARE.R`
+
+### 1c: Using a Docker Container
+
+Below are the steps for running FLARE as a Docker Container. If you
+already have Docker Desktop on your computer you can skip the first
+step.
+
+  - Download and install Docker Desktop from Docker.com
+      - <https://www.docker.com/products/docker-desktop>
+  - Open a Terminal window in Mac or Command Prompt window in Windows
+  - Run this command in Terminal or Command Prompt (this will take a
+    while to download) `docker run --name flare-dev -e PASSWORD=password
+    -p 8787:8787 flareforecast/flare_scc_tutorial2`
+  - Open a webbrower and enter the following address:
+    <http://localhost:8787>
+  - Enter the following user name and password
+      - user: rstudio
+      - password: password
 
 ## 2: Configure simulation (GLM)
 
@@ -248,7 +268,7 @@ now only modify the first three as specified)
   - `sim_name`: a string with the name of your simulation. This will
     appear in your output file names
   - `forecast_days`: This is your forecast horizon. The max is `16`
-    days. Set to `0` if only doing data assimilation with observed
+    days. Set to `0`if only doing data assimilation with observed
     drivers.
   - `spin_up_days`: set to zero. Don’t worry about this one.
   - `start_day_local`: The date that your simulation starts. Uses the
@@ -262,7 +282,9 @@ now only modify the first three as specified)
     can be any hour if only doing data assimilation with observed
     drivers (forecast\_days = 0). If forecasting (forecast\_days \> 0)
     it is required to match up with the availability of a NOAA forecast.
-    NOAA forecasts are available at
+    NOAA forecasts are available at the following times GMT so you must
+    select a local time that matches one of these times (i.e., 07:00:00
+    at FCR is the 12:00:00 GMT NOAA forecast).
       - 00:00:00 GMT
       - 06:00:00 GMT
       - 12:00:00 GMT
@@ -788,7 +810,7 @@ Observational uncertainty has two components.
 The variable `ensemble_size` allows you to adjust the size of the
 ensemble. You can use any value if you are using data assimilation with
 observed drivers. If you are forecasting then `ensemble_size` must be a
-multiple of `21*n_ds_members`, where 21 is the number of NOAA GEF
+multiple of `21 * n_ds_members`, where 21 is the number of NOAA GEF
 ensemble members.
 
 ### Changing the number of depths simulated
@@ -858,7 +880,7 @@ FLARE also allows you to include a separate file for CTD depth profiles:
 
 Importantly, `insitu_obs_fname`, `met_obs_fname`, and `inflow_file1`
 **require** two file names. The first is the realtime file that has not
-had QAQC applied (i.e, just downloaded from the sensor). The second is
+had QAQC applied (i.e,just downloaded from the sensor). The second is
 file that has QAQC applied (i.e, a file from a data repository). If any
 time periods overlap between the two files, FLARE will default the
 second (QAQCed) file. Historical data assimilation applications will use
@@ -1261,7 +1283,7 @@ A guide to the variables in `configure_flare.R`
   - `tchla_components_vars`: The names of the phytoplankton groups that
     contribute to total chl-a in GLM
   - `wq_names`: GLM names of the water quality variables modeled. Not
-    used if include\_wq == FALSE
+    used if `include_wq == FALSE`
   - `biomass_to_chla`: Carbon to chlorophyll ratio (mg C/mg chla) for
     each group in `tchla_components_vars`.
       - 12 g/ mole of C vs. X g/ mole of chla
@@ -1357,6 +1379,9 @@ A guide to the variables in `configure_flare.R`
   - `forecast_no_SSS`: Include SSS in forecast
       - `TRUE`: include
       - `FALSE`: don’t include
+  - `use_specified_sss`: Use sss inflow and oxygen from file in
+    forecast. If `FALSE` then provide `forecast_SSS_flow` and
+    `forecast_SSS_Oxy`.
   - `forecast_SSS_flow`: Flow rate of SSS in forecast (m3/day)
   - `forecast_SSS_Oxy`: Oxygen concentration of SSS in forecast
     (mmol/m3)
