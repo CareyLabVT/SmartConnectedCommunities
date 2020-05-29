@@ -4,7 +4,17 @@ title: "In the News"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
+  video:
+  id: XsxDH4HcOWA?start=891s
+  provider: youtube
 ---
+
+# The Power of Water Quality Forecasting for Management
+
+*[<i class="fab fa-youtube" aria-hidden="true"></i> By: Abby Lewis](
+https://www.youtube.com/watch?v=7eHcr6TBl24&t=891s)*
+
+{% include video id="7eHcr6TBl24?start=891" provider="youtube" %}
 
 # Class of 2019: Laura Puckett merges a passion for the outdoors with keen insights into environmental data
 
@@ -56,7 +66,9 @@ After more than a year, this unique water forecasting system, developed by a Vir
 
 The work started in 2018 after Carey’s team received a $1 million Smart and Connected Communities grant from the National Science Foundation to develop a real-time water forecasting system for the reservoir. Since then, faculty and graduate students representing various disciplines have visited the reservoir weekly in the spring and summer and monthly in the winter to install sensors, take water samples, and collect other data.
 
-<iframe class="one-half" src="https://cdnapisec.kaltura.com/p/2375811/sp/237581100/embedIframeJs/uiconf_id/41951101/partner_id/2375811?iframeembed=true&playerId=kplayer&entry_id=1_9ok8r6ty&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+<div class="video-responsive">
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2375811/sp/237581100/embedIframeJs/uiconf_id/41950442/partner_id/2375811?iframeembed=true&playerId=kaltura_player&entry_id=1_9ok8r6ty&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_3jcfgxmd" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" width="100%" title="Kaltura Player"></iframe>
+</div>
 
 Meanwhile, Falling Creek has been offline since June because of concern over poor water quality, Morris said. 
 
@@ -100,9 +112,7 @@ The fundamental question — “How can we design this system so that it is meet
 
 *[<i class="fab fa-youtube" aria-hidden="true"></i> VirginiaTech, October 27, 2018](https://www.youtube.com/watch?v=4BfIwILr7K8)*
 
-{::nomarkdown}<div class="one-half">{:/nomarkdown}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4BfIwILr7K8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-{::nomarkdown}</div>{:/nomarkdown}
+{% include video id="4BfIwILr7K8" provider="youtube" %}
 
 # Researchers to forecast water quality with NSF support
 
@@ -112,9 +122,7 @@ Public utility managers will be able to predict drinking water quality more accu
  
 The system will collect multiple real-time environmental datasets, such as levels of metals in the reservoir water, presence of aquatic life, oxygenation levels from current treatment, and use these data, along with local weather predictions and a state-of-the-art reservoir model, to forecast future water quality. Warmer temperatures brought on by climate change can spur algal blooms and unlock metals stored in the sediment of the reservoir, both of which can cause taste, staining, and odor issues in the drinking water.
 
-{::nomarkdown}<div class="one-half">{:/nomarkdown}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JDkLdYjWlfU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-{::nomarkdown}</div>{:/nomarkdown}
+{% include video id="JDkLdYjWlfU" provider="youtube" %}
 
 “This smart system will allow us to predict times at which water may require additional treatment due to environmental factors,” said Cayelan Carey, an assistant professor of biological sciences in the College of Science. “We can then use adaptive management practices to create the best water possible at all times for consumers.”
 
