@@ -15,7 +15,7 @@
 
 .masthead__inner-wrap nav {
     background: #fff url(../images/logo.jpg) no-repeat left top;
-    height: 99px;
+    height: 104px;
 }
 
 .page {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .greedy-nav a {
-    margin: 0 0.5rem;
+    margin: 0 0.35rem;
 }
 
 .masthead {
@@ -267,6 +267,11 @@ a {
 
 }
 
+.one-fourth h3, .one-fourth-last h3 {
+	font-size: 0.95em;
+}
+
+// VT Video Player (Kaltura Player) Fix
 .video-responsive {
     overflow:hidden;
     padding-bottom:56.25%;
