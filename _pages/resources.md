@@ -33,6 +33,13 @@ https://www.youtube.com/watch?v=mkV-vSDnW74)*
 
 {% include video id="mkV-vSDnW74" provider="youtube" %}
 
+## Introduction to the Ecological Forecasting Initiative, Highlighting FLARE
+
+*[<i class="fab fa-youtube" aria-hidden="true"></i> By: Dr. Quinn Thomas](
+https://www.youtube.com/watch?v=79GRtPpOpv0)*
+
+{% include video id="79GRtPpOpv0" provider="youtube" %}
+
 # SCC Manuscript Authorship Guidelines
 
 [<i class="far fa-file-pdf" aria-hidden="true"></i> SCC Manuscript Authorship Guidelines v.2.0, Last Revised 2 October 2017](../assets/files/SCCAuthorshipGuidelines_v2_2Oct17.pdf)

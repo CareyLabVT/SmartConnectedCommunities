@@ -157,6 +157,14 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Rachel Corrigan](../assets/images/rachel.jpg){: .profile-img}
+### <i class="fa fa-link" aria-hidden="true"></i> Rachel Corrigan
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Department of Forest Resources & Environmental Conservation, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
 ![Laura Puckett](../assets/images/laura.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Laura Puckett](https://www.epics.frec.vt.edu/?page_id=65)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -164,7 +172,7 @@ Undergraduate Alumni (VT '19), Ecosystem Dynamics & Forecasting Lab, Virginia Te
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
-{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Arianna Krinos](https://github.com/akrinos)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
