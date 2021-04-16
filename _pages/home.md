@@ -8,7 +8,7 @@ header:
   caption: "Falling Creek Reservoir, Virginia, USA"
 excerpt: "Forecasting Water Quality"
 feature_row:
-  - image_path: https://raw.githubusercontent.com/CareyLabVT/FCR_forecasts/v2.glm/Current_forecast.png
+  - image_path: https://github.com/FLARE-forecast/flare-visualization/raw/main/fcre/Current_forecast.png
     alt: "Daily Forecasts"
     title: "Daily Forecasts"
     excerpt: "Daily Water Temperature and Turnover Forecast for Falling Creek Reservoir, Roanoke, Virginia, USA"
