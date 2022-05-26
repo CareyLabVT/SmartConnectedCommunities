@@ -1,15 +1,16 @@
-function checkImage(url) {
+function setImage(num_days) { //Look for the latest graph url
   var request = new XMLHttpRequest();
+  var url = 'https://s3.flare-forecast.org/analysis/fcre/fcre-'+(new Date(new Date().getTime() - num_days*24*60*60*1000)).toJSON().slice(0,10)+'-fcre_js2_turnover.png'
   request.open("GET", url, true);
   request.send();
   request.onload = function() {
     status = request.status;
     if (request.status == 200) //if(statusText == OK)
     {
-      document.getElementById("forecast").src = 'https://s3.flare-forecast.org/analysis/fcre/fcre-'+(new Date(new Date().getTime() - 24*60*60*1000)).toJSON().slice(0,10)+'-fcre_js2_turnover.png';
+      document.getElementById("forecast").src = url;
     } else {
-      document.getElementById("forecast").src = 'https://s3.flare-forecast.org/analysis/fcre/fcre-'+(new Date(new Date().getTime() - 48*60*60*1000)).toJSON().slice(0,10)+'-fcre_js2_turnover.png';
+      setImage(num_days + 1)
     }
   }
 }
-checkImage('https://s3.flare-forecast.org/analysis/fcre/fcre-'+(new Date(new Date().getTime() - 24*60*60*1000)).toJSON().slice(0,10)+'-fcre_js2_turnover.png');
+setImage(1);
